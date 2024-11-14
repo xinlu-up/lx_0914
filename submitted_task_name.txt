@@ -1,0 +1,17 @@
+
+报出时延优化
+Onvo纯视觉 - confidence验证round2
+报出时延优化
+BL300 Round3 7/16主动安全2024发版伴生
+bugfix 主线版本预埋vision_god链路对source_lidar目标输出vision_god结构
+bugfix 主线版本预埋vision_god链路对source_lidar目标输出vision_god结构v2
+【纯视觉】法规场景兜底方案--角度离散化
+Fcts优化CPU耗时和 debug proto size
+BL300CN（BL240EU）法规项和指标预验证
+【纯视觉】透传stamp_v
+2625232-goc-dla链路拆分-model更新
+2625213-goc-仅dla链路拆分
+ONVO delta time compensation round7
+goa-优化入弯报警异常场景（基础版）
+8/3 ONVO主动安全BL100 RC1 weekly 伴生
+NT2: OD后处理静态代码修复 v1.1

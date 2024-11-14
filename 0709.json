@@ -1,0 +1,912 @@
+{
+    "err": {},
+    "err_code": 0,
+    "err_msg": "",
+    "data": [
+        {
+            "fields": [
+                {
+                    "field_key": "template",
+                    "field_value": {
+                        "id": 382839,
+                        "version": 28
+                    },
+                    "field_type_key": "work_item_template",
+                    "field_alias": "template"
+                },
+                {
+                    "field_key": "field_cd2ee4",
+                    "field_value": [],
+                    "field_type_key": "multi_select",
+                    "field_alias": ""
+                },
+                {
+                    "field_key": "tags",
+                    "field_value": [],
+                    "field_type_key": "multi_select",
+                    "field_alias": "tags"
+                },
+                {
+                    "field_type_key": "date",
+                    "field_alias": "archiving_date",
+                    "field_key": "archiving_date",
+                    "field_value": null
+                },
+                {
+                    "field_key": "field_8e2289",
+                    "field_value": {
+                        "value": "nml0q2sfn",
+                        "label": "BL211"
+                    },
+                    "field_type_key": "select",
+                    "field_alias": ""
+                },
+                {
+                    "field_type_key": "date",
+                    "field_alias": "",
+                    "field_key": "field_e3747e",
+                    "field_value": 1721232000000
+                },
+                {
+                    "help_description": "推荐使用patch bundle ，patch bundle有问题时添加",
+                    "field_key": "field_c2d67b",
+                    "field_value": "",
+                    "field_type_key": "text",
+                    "field_alias": ""
+                },
+                {
+                    "field_key": "description",
+                    "field_value": "123\n",
+                    "field_type_key": "multi_text",
+                    "field_alias": "description"
+                },
+                {
+                    "field_alias": "",
+                    "field_key": "field_b48066",
+                    "field_value": "",
+                    "field_type_key": "text"
+                },
+                {
+                    "field_value": {
+                        "reason": "",
+                        "is_aborted": false
+                    },
+                    "field_type_key": "aborted",
+                    "field_alias": "",
+                    "field_key": "aborted"
+                },
+                {
+                    "field_alias": "",
+                    "field_key": "field_1c967d",
+                    "field_value": {
+                        "label": "研发验证",
+                        "value": "u3855pa96"
+                    },
+                    "field_type_key": "select"
+                },
+                {
+                    "field_key": "field_76ba38",
+                    "field_value": [
+                        {
+                            "label": "logsim测试",
+                            "value": "logsim测试"
+                        },
+                        {
+                            "label": "HIL测试",
+                            "value": "w9jbidryo"
+                        }
+                    ],
+                    "field_type_key": "multi_select",
+                    "field_alias": ""
+                },
+                {
+                    "field_type_key": "user",
+                    "field_alias": "owner",
+                    "field_key": "owner",
+                    "field_value": "7324792892365586435"
+                },
+                {
+                    "field_key": "field_a6b2de",
+                    "field_value": null,
+                    "field_type_key": "date",
+                    "field_alias": ""
+                },
+                {
+                    "field_key": "finish_status",
+                    "field_value": false,
+                    "field_type_key": "bool",
+                    "field_alias": "finish_status"
+                },
+                {
+                    "field_key": "field_a7830c",
+                    "field_value": "",
+                    "field_type_key": "multi_text",
+                    "field_alias": ""
+                },
+                {
+                    "field_type_key": "multi_user",
+                    "field_alias": "current_status_operator",
+                    "field_key": "current_status_operator",
+                    "field_value": [
+                        "7202974943494012929",
+                        "7181773552801103874",
+                        "7181811094732668929",
+                        "7181773549147865089",
+                        "7311200844853149699"
+                    ]
+                },
+                {
+                    "field_key": "field_5b5380",
+                    "field_value": [],
+                    "field_type_key": "work_item_related_multi_select",
+                    "field_alias": "task_test"
+                },
+                {
+                    "field_key": "field_0a903a",
+                    "field_value": [
+                        {
+                            "label": "基础版",
+                            "value": "b5vm5w6rr"
+                        }
+                    ],
+                    "field_type_key": "multi_select",
+                    "field_alias": ""
+                },
+                {
+                    "field_key": "field_a50b6d",
+                    "field_value": {
+                        "label": "默认全量场景集",
+                        "value": "rt3cbzwt0"
+                    },
+                    "field_type_key": "select",
+                    "field_alias": ""
+                },
+                {
+                    "field_value": {
+                        "label": "NT2",
+                        "value": "nt7nkog98"
+                    },
+                    "field_type_key": "select",
+                    "field_alias": "key_platform",
+                    "field_key": "field_e4ca95"
+                },
+                {
+                    "field_key": "field_44fee5",
+                    "field_value": [],
+                    "field_type_key": "work_item_related_multi_select",
+                    "field_alias": ""
+                },
+                {
+                    "field_key": "role_owners",
+                    "field_value": [
+                        {
+                            "role": "QA",
+                            "owners": [
+                                "7130135223366369283",
+                                "7155651713674805252"
+                            ]
+                        },
+                        {
+                            "role": "tech_owner",
+                            "owners": null
+                        },
+                        {
+                            "role": "role_036882",
+                            "owners": [
+                                "7145669172586872834",
+                                "7195045906268307457"
+                            ]
+                        },
+                        {
+                            "role": "role_318d09",
+                            "owners": [
+                                "7181773549147865089",
+                                "7311200844853149699"
+                            ]
+                        },
+                        {
+                            "role": "role_6c1186",
+                            "owners": [
+                                "7202974943494012929",
+                                "7181773552801103874",
+                                "7181811094732668929"
+                            ]
+                        },
+                        {
+                            "role": "role_0b47a4",
+                            "owners": [
+                                "7173952763267776516"
+                            ]
+                        },
+                        {
+                            "owners": [
+                                "7130135223366369283",
+                                "7155651713674805252"
+                            ],
+                            "role": "role_91a92d"
+                        },
+                        {
+                            "role": "role_7675fc",
+                            "owners": [
+                                "7147633632079921154"
+                            ]
+                        },
+                        {
+                            "role": "role_184343",
+                            "owners": [
+                                "7199503409580490756",
+                                "7167250563162324995"
+                            ]
+                        },
+                        {
+                            "role": "role_a85b0f",
+                            "owners": [
+                                "7272982598253690881"
+                            ]
+                        },
+                        {
+                            "role": "role_ba0196",
+                            "owners": [
+                                "7337743635351355396"
+                            ]
+                        },
+                        {
+                            "role": "role_5e880a",
+                            "owners": [
+                                "7182570978478719004",
+                                "7156129991229489180",
+                                "7186631901065576452"
+                            ]
+                        },
+                        {
+                            "role": "role_f1d576",
+                            "owners": [
+                                "7158314513782145025",
+                                "7160979157877309443",
+                                "7191114935080927233",
+                                "7175640622781480961"
+                            ]
+                        },
+                        {
+                            "owners": [
+                                "7160985332643577859",
+                                "7194331835608973313",
+                                "7203603365303975937",
+                                "7223290997340504092",
+                                "7140545174719004676"
+                            ],
+                            "role": "role_0e7fc5"
+                        },
+                        {
+                            "role": "role_050cd9",
+                            "owners": [
+                                "7173952763267776516",
+                                "7249668153528074242",
+                                "7281148382633033730",
+                                "7349323490207498244",
+                                "7182466939741159425"
+                            ]
+                        },
+                        {
+                            "role": "role_a17a3c",
+                            "owners": [
+                                "7173952763267776516",
+                                "7202890625002373122"
+                            ]
+                        },
+                        {
+                            "role": "role_6e4dd8",
+                            "owners": [
+                                "7324792892365586435"
+                            ]
+                        },
+                        {
+                            "role": "role_93917c",
+                            "owners": [
+                                "7182509344867614748"
+                            ]
+                        },
+                        {
+                            "role": "role_b43378",
+                            "owners": [
+                                "7156407292710240284",
+                                "7181778695483359234"
+                            ]
+                        },
+                        {
+                            "role": "role_1f558b",
+                            "owners": [
+                                "7202799658542874628",
+                                "7129435420814819356",
+                                "7188122814396891164",
+                                "7156407292710240284",
+                                "7273069811675021314",
+                                "7306510090352279555",
+                                "7187164733093494788",
+                                "7272024980764835868",
+                                "7348129415936753666"
+                            ]
+                        },
+                        {
+                            "role": "role_5bc356",
+                            "owners": [
+                                "7203603365303975937",
+                                "7140545174719004676"
+                            ]
+                        },
+                        {
+                            "role": "role_9913fd",
+                            "owners": [
+                                "7167250563162324995",
+                                "7199503409580490756"
+                            ]
+                        },
+                        {
+                            "owners": [
+                                "7203633467035320321",
+                                "7129435420814819356",
+                                "7156407292710240284",
+                                "7182048650443423772",
+                                "7172151369502130180",
+                                "7199993758677467138",
+                                "7205169519797600257",
+                                "7173952763267776516"
+                            ],
+                            "role": "role_7036a2"
+                        },
+                        {
+                            "role": "role_5b365b",
+                            "owners": [
+                                "7168808879202074628"
+                            ]
+                        },
+                        {
+                            "role": "role_98e717",
+                            "owners": [
+                                "7181707245045022724"
+                            ]
+                        },
+                        {
+                            "role": "role_361fc8",
+                            "owners": [
+                                "7155651713674805252"
+                            ]
+                        },
+                        {
+                            "role": "role_1aec54",
+                            "owners": [
+                                "7348121899525750787",
+                                "7339574388821458947"
+                            ]
+                        },
+                        {
+                            "role": "role_fdc14e",
+                            "owners": [
+                                "7203260513835286556",
+                                "7185006924570656769"
+                            ]
+                        },
+                        {
+                            "role": "role_b83495",
+                            "owners": [
+                                "7155323734977413122"
+                            ]
+                        }
+                    ],
+                    "field_type_key": "role_owners",
+                    "field_alias": ""
+                },
+                {
+                    "field_key": "field_e806a1",
+                    "field_value": "问题列表：\n增强版AEB FP 回退明显  issue：PNC触发-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1    STAMP触发-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1 \n增强版ELK TP回退 issue：链接-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697aaf42d2fd71ee5b8fe65%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&tabsKey=6775&size=10&page=1 \n基础版 AEB TP VRU回退明显 TP回退-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1   FP回退NOGO子集-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%7D%5D&tabsKey=6775&size=10&page=1 \n基础版GOA SOD FP 回退 ：链接-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697bc64c29f727302210e64%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&tabsKey=6775&size=10&page=1 \n\nAEB RECALL\n增强版：69.82%\n基础版：29.16%\n\n[图片]\n[图片]\n\n[图片]\n\n\n增强版\nAEB\nFP 回退147 NOGO\nhttps://nio.feishu.cn/base/LU9NboyNAaAcbFsgZ45cevvLnNh?table=tbl5if9GJ9C3B5Vo&view=vewfsXpatR [图片]\n[图片]\n\nGOA\nhttps://nio.feishu.cn/base/BCp4bTAxkaYefMsiAtScf7IvnOp?table=tblq7i7Udkebye6z&view=vewIsSoUmV [图片]\n[图片]\n\nELK\nTP 回退23 NOGO\nhttps://nio.feishu.cn/base/EwH1b0lEwa1skWsovRXcGDnGnQg?table=tblwjV8ISR3DHD8Z&view=vewbxR3fHv \n[图片]\n\nMAI 无明显差异\nhttps://nio.feishu.cn/base/AgjibR9SKaGxWJsAv6WciDOvnsc?table=tbltP0k9ZH0UDjcC&view=vewXeP58fG [图片]\n\n\nRAEB \nTP 改进8 回退5\nhttps://nio.feishu.cn/base/HpjjbtHwQax19QsIat9ccE48nuc?table=tblJIwXpcmOBtYW4&view=vewYGkF0kq [图片]\n\nRGOA 无明显差异\nhttps://nio.feishu.cn/base/VSUMbCNFLa0AfFsFRKncClVNnJe?table=tblbeJV5wgthQQfS&view=vewuv8C9VY [图片]\n\nRMAI\nFN 改进1 \nhttps://nio.feishu.cn/base/TRMwbbY47a2r3gsetZsc54vTnTe?table=tbl40xE1nxMA3O8C&view=vewYBcWrOa [图片]\n\n\n\n基础版\nAEB\naeb_fp_vru_dlb_fusion_heading_inaccuracy_tag_VRU  回退9\naeb_fp_vru_dlb_groupvru_tag_VRU 回退3\naeb_tp_vru_dlb_vru专项场景库_TP 回退28\nhttps://nio.feishu.cn/base/N63lb2OLha2l7BsoWBbc9naCnOc?table=tbl9QsKRSd2F9lvQ&view=vew5aJC6of [图片]\n[图片]\n\nGOA\ngoa_dlb_ctrl_fp_host_predict_path_inaccuracy 回退6\nhttps://nio.feishu.cn/base/Zm4AbCmv8aGVsRs7inJcGTAtnhf?table=tbl3ZISN1kXmftjp&view=vewKyPmfnw [图片]\n[图片]\n\nELK\nhttps://nio.feishu.cn/base/BhXCbH7Ipahui4smSz1cjzuPnoh?table=tblbk7Z0gXZ6jrgy&view=vew7L57b0S [图片]\n\nMAI\nhttps://nio.feishu.cn/base/SBcNbYEwIawLpTs1sRpcsuKDn6b?table=tblt2LuRQpRVcj2f&view=vewSOVrm0c [图片]\n\nRAEB\nhttps://nio.feishu.cn/base/NsNLbecMAahjzVscVwZcXr4rn6g?table=tbleGeNN2FhZzml1&view=vewgjwAwh7 [图片]\n\nRGOA\nhttps://nio.feishu.cn/base/MMA2bCgi4aE2X8sNtZecKJyUn9f?table=tblutLbVFVaQxUxO&view=vewbynCk7H [图片]\n\nRMAI\nhttps://nio.feishu.cn/base/C67IbhSv6aJjwpsrlNBcMKtinSc?table=tblsKH0nzijfhmH6&view=vewPLXKsI0 \n[图片]\n",
+                    "field_type_key": "multi_text",
+                    "field_alias": ""
+                },
+                {
+                    "field_type_key": "work_item_related_multi_select",
+                    "field_alias": "",
+                    "field_key": "field_4d3ff9",
+                    "field_value": []
+                },
+                {
+                    "field_type_key": "multi_user",
+                    "field_alias": "watchers",
+                    "help_description": "需求关注者可通过bot私信&个人看板了解需求相关进度",
+                    "field_key": "watchers",
+                    "field_value": null
+                },
+                {
+                    "field_alias": "",
+                    "field_key": "field_aed746",
+                    "field_value": "",
+                    "field_type_key": "multi_text"
+                },
+                {
+                    "field_key": "auto_number",
+                    "field_value": 1079,
+                    "field_type_key": "number",
+                    "field_alias": "auto_number"
+                },
+                {
+                    "field_type_key": "work_item_related_multi_select",
+                    "field_alias": "",
+                    "field_key": "field_e5e0f1",
+                    "field_value": []
+                },
+                {
+                    "field_key": "start_time",
+                    "field_value": 1721205845474,
+                    "field_type_key": "date",
+                    "field_alias": "start_time"
+                },
+                {
+                    "field_key": "field_904d82",
+                    "field_value": null,
+                    "field_type_key": "select",
+                    "field_alias": ""
+                },
+                {
+                    "field_type_key": "text",
+                    "field_alias": "",
+                    "field_key": "field_c7a8e8",
+                    "field_value": "lx006"
+                },
+                {
+                    "field_type_key": "multi_text",
+                    "field_alias": "",
+                    "field_key": "field_d97763",
+                    "field_value": "lx_006\n"
+                },
+                {
+                    "field_value": null,
+                    "field_type_key": "date",
+                    "field_alias": "finish_time",
+                    "field_key": "finish_time"
+                },
+                {
+                    "field_key": "field_897169",
+                    "field_value": "",
+                    "field_type_key": "text",
+                    "field_alias": "key_version_code"
+                },
+                {
+                    "field_type_key": "multi_text",
+                    "field_alias": "",
+                    "field_key": "field_6df58a",
+                    "field_value": "Logsim测试状态：暂无\nHIL Replay测试状态：暂无\nWorldsim测试状态：暂无\n"
+                },
+                {
+                    "field_key": "field_bf1d36",
+                    "field_value": [
+                        {
+                            "label": "AEB",
+                            "value": "on4tzouoo"
+                        }
+                    ],
+                    "field_type_key": "multi_select",
+                    "field_alias": ""
+                },
+                {
+                    "field_key": "priority",
+                    "field_value": {
+                        "label": "P6",
+                        "value": "2vgzrbhux"
+                    },
+                    "field_type_key": "select",
+                    "field_alias": "priority"
+                },
+                {
+                    "field_key": "deleted",
+                    "field_value": false,
+                    "field_type_key": "deleted",
+                    "field_alias": ""
+                },
+                {
+                    "field_type_key": "group_type",
+                    "field_alias": "",
+                    "field_key": "group_type",
+                    "field_value": "disabled"
+                },
+                {
+                    "field_key": "field_f14d6c",
+                    "field_value": {
+                        "value": "bc6xwjda6",
+                        "label": "否"
+                    },
+                    "field_type_key": "select",
+                    "field_alias": ""
+                }
+            ],
+            "deleted_by": "",
+            "name": "lx_006",
+            "created_by": "7324792892365586435", 
+            "created_at": 1721205846046,
+            "updated_by": "7311200844853149699",
+            "updated_at": 1721352843376,
+            "workflow_infos": {
+                "workflow_nodes": [
+                    {
+                        "schedules": [
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7199503409580490756"
+                                ]
+                            },
+                            {
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7167250563162324995"
+                                ],
+                                "points": 0,
+                                "estimate_start_date": 0
+                            }
+                        ],
+                        "actual_finish_time": "2024-07-17T08:44:09.903Z",
+                        "state_key": "initiate_review",
+                        "role_assignee": [
+                            {
+                                "role": "role_184343",
+                                "owners": [
+                                    "7199503409580490756",
+                                    "7167250563162324995"
+                                ]
+                            }
+                        ],
+                        "name": "方案影响确认",
+                        "status": 3,
+                        "different_schedule": false,
+                        "milestone": false,
+                        "id": "initiate_review",
+                        "owners": [
+                            "7199503409580490756",
+                            "7167250563162324995"
+                        ],
+                        "node_schedule": {
+                            "points": 0,
+                            "owners": [
+                                "7199503409580490756",
+                                "7167250563162324995"
+                            ]
+                        },
+                        "actual_begin_time": "2024-07-17T08:44:05.804Z"
+                    },
+                    {
+                        "different_schedule": false,
+                        "id": "waiting_for_ab_discussion",
+                        "state_key": "waiting_for_ab_discussion",
+                        "name": "logsim全量测试",
+                        "status": 2,
+                        "actual_begin_time": "2024-07-17T08:44:09.919Z",
+                        "role_assignee": [
+                            {
+                                "owners": [
+                                    "7181773549147865089",
+                                    "7311200844853149699"
+                                ],
+                                "role": "role_318d09"
+                            }
+                        ],
+                        "milestone": false,
+                        "fields": [
+                            {
+                                "field_key": "field_e806a1",
+                                "field_value": "问题列表：\n增强版AEB FP 回退明显  issue：PNC触发-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1    STAMP触发-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1 \n增强版ELK TP回退 issue：链接-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697aaf42d2fd71ee5b8fe65%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&tabsKey=6775&size=10&page=1 \n基础版 AEB TP VRU回退明显 TP回退-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1   FP回退NOGO子集-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%7D%5D&tabsKey=6775&size=10&page=1 \n基础版GOA SOD FP 回退 ：链接-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697bc64c29f727302210e64%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&tabsKey=6775&size=10&page=1 \n\nAEB RECALL\n增强版：69.82%\n基础版：29.16%\n\n[图片]\n[图片]\n\n[图片]\n\n\n增强版\nAEB\nFP 回退147 NOGO\nhttps://nio.feishu.cn/base/LU9NboyNAaAcbFsgZ45cevvLnNh?table=tbl5if9GJ9C3B5Vo&view=vewfsXpatR [图片]\n[图片]\n\nGOA\nhttps://nio.feishu.cn/base/BCp4bTAxkaYefMsiAtScf7IvnOp?table=tblq7i7Udkebye6z&view=vewIsSoUmV [图片]\n[图片]\n\nELK\nTP 回退23 NOGO\nhttps://nio.feishu.cn/base/EwH1b0lEwa1skWsovRXcGDnGnQg?table=tblwjV8ISR3DHD8Z&view=vewbxR3fHv \n[图片]\n\nMAI 无明显差异\nhttps://nio.feishu.cn/base/AgjibR9SKaGxWJsAv6WciDOvnsc?table=tbltP0k9ZH0UDjcC&view=vewXeP58fG [图片]\n\n\nRAEB \nTP 改进8 回退5\nhttps://nio.feishu.cn/base/HpjjbtHwQax19QsIat9ccE48nuc?table=tblJIwXpcmOBtYW4&view=vewYGkF0kq [图片]\n\nRGOA 无明显差异\nhttps://nio.feishu.cn/base/VSUMbCNFLa0AfFsFRKncClVNnJe?table=tblbeJV5wgthQQfS&view=vewuv8C9VY [图片]\n\nRMAI\nFN 改进1 \nhttps://nio.feishu.cn/base/TRMwbbY47a2r3gsetZsc54vTnTe?table=tbl40xE1nxMA3O8C&view=vewYBcWrOa [图片]\n\n\n\n基础版\nAEB\naeb_fp_vru_dlb_fusion_heading_inaccuracy_tag_VRU  回退9\naeb_fp_vru_dlb_groupvru_tag_VRU 回退3\naeb_tp_vru_dlb_vru专项场景库_TP 回退28\nhttps://nio.feishu.cn/base/N63lb2OLha2l7BsoWBbc9naCnOc?table=tbl9QsKRSd2F9lvQ&view=vew5aJC6of [图片]\n[图片]\n\nGOA\ngoa_dlb_ctrl_fp_host_predict_path_inaccuracy 回退6\nhttps://nio.feishu.cn/base/Zm4AbCmv8aGVsRs7inJcGTAtnhf?table=tbl3ZISN1kXmftjp&view=vewKyPmfnw [图片]\n[图片]\n\nELK\nhttps://nio.feishu.cn/base/BhXCbH7Ipahui4smSz1cjzuPnoh?table=tblbk7Z0gXZ6jrgy&view=vew7L57b0S [图片]\n\nMAI\nhttps://nio.feishu.cn/base/SBcNbYEwIawLpTs1sRpcsuKDn6b?table=tblt2LuRQpRVcj2f&view=vewSOVrm0c [图片]\n\nRAEB\nhttps://nio.feishu.cn/base/NsNLbecMAahjzVscVwZcXr4rn6g?table=tbleGeNN2FhZzml1&view=vewgjwAwh7 [图片]\n\nRGOA\nhttps://nio.feishu.cn/base/MMA2bCgi4aE2X8sNtZecKJyUn9f?table=tblutLbVFVaQxUxO&view=vewbynCk7H [图片]\n\nRMAI\nhttps://nio.feishu.cn/base/C67IbhSv6aJjwpsrlNBcMKtinSc?table=tblsKH0nzijfhmH6&view=vewPLXKsI0 \n[图片]\n",
+                                "field_type_key": "multi_text",
+                                "field_alias": ""
+                            }
+                        ],
+                        "node_schedule": {
+                            "points": 0,
+                            "owners": [
+                                "7181773549147865089",
+                                "7311200844853149699"
+                            ]
+                        },
+                        "schedules": [
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7181773549147865089"
+                                ]
+                            },
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7311200844853149699"
+                                ]
+                            }
+                        ],
+                        "owners": [
+                            "7181773549147865089",
+                            "7311200844853149699"
+                        ],
+                        "actual_finish_time": ""
+                    },
+                    {
+                        "name": "hil测试",
+                        "schedules": [
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7202974943494012929"
+                                ]
+                            },
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7181773552801103874"
+                                ]
+                            },
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7181811094732668929"
+                                ]
+                            }
+                        ],
+                        "owners": [
+                            "7202974943494012929",
+                            "7181773552801103874",
+                            "7181811094732668929"
+                        ],
+                        "different_schedule": false,
+                        "state_key": "state_9",
+                        "status": 2,
+                        "actual_begin_time": "2024-07-17T08:44:09.919Z",
+                        "milestone": false,
+                        "id": "state_9",
+                        "node_schedule": {
+                            "points": 0,
+                            "owners": [
+                                "7202974943494012929",
+                                "7181773552801103874",
+                                "7181811094732668929"
+                            ]
+                        },
+                        "actual_finish_time": "",
+                        "role_assignee": [
+                            {
+                                "role": "role_6c1186",
+                                "owners": [
+                                    "7202974943494012929",
+                                    "7181773552801103874",
+                                    "7181811094732668929"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "status": 1,
+                        "actual_begin_time": "",
+                        "id": "state_4",
+                        "state_key": "state_4",
+                        "actual_finish_time": "",
+                        "role_assignee": [
+                            {
+                                "owners": [
+                                    "7130135223366369283",
+                                    "7155651713674805252"
+                                ],
+                                "role": "QA"
+                            },
+                            {
+                                "role": "role_184343",
+                                "owners": [
+                                    "7199503409580490756",
+                                    "7167250563162324995"
+                                ]
+                            }
+                        ],
+                        "owners": [
+                            "7130135223366369283",
+                            "7155651713674805252",
+                            "7199503409580490756",
+                            "7167250563162324995"
+                        ],
+                        "node_schedule": {
+                            "points": 0,
+                            "owners": [
+                                "7130135223366369283",
+                                "7155651713674805252",
+                                "7199503409580490756",
+                                "7167250563162324995"
+                            ]
+                        },
+                        "different_schedule": false,
+                        "milestone": false,
+                        "fields": [
+                            {
+                                "field_key": "description",
+                                "field_value": "123\n",
+                                "field_type_key": "multi_text",
+                                "field_alias": "description"
+                            }
+                        ],
+                        "schedules": [
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7130135223366369283"
+                                ]
+                            },
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7155651713674805252"
+                                ]
+                            },
+                            {
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7199503409580490756"
+                                ],
+                                "points": 0
+                            },
+                            {
+                                "points": 0,
+                                "estimate_start_date": 0,
+                                "estimate_end_date": 0,
+                                "owners": [
+                                    "7167250563162324995"
+                                ]
+                            }
+                        ],
+                        "name": "测试结果确认"
+                    }
+                ],
+                "connections": [
+                    {
+                        "source_state_key": "initiate_review",
+                        "target_state_key": "waiting_for_ab_discussion"
+                    },
+                    {
+                        "source_state_key": "waiting_for_ab_discussion",
+                        "target_state_key": "state_4"
+                    },
+                    {
+                        "source_state_key": "initiate_review",
+                        "target_state_key": "state_9"
+                    },
+                    {
+                        "source_state_key": "state_9",
+                        "target_state_key": "state_4"
+                    }
+                ]
+            },
+            "state_times": [
+                {
+                    "state_key": "initiate_review",
+                    "start_time": 1721205845804,
+                    "end_time": 1721205849903,
+                    "name": "方案影响确认"
+                },
+                {
+                    "state_key": "waiting_for_ab_discussion",
+                    "start_time": 1721205849919,
+                    "end_time": 0,
+                    "name": "logsim全量测试"
+                },
+                {
+                    "state_key": "state_9",
+                    "start_time": 1721205849919,
+                    "end_time": 0,
+                    "name": "hil测试"
+                }
+            ],
+            "multi_texts": [
+                {
+                    "field_key": "description",
+                    "field_value": {
+                        "is_empty": false,
+                        "doc_html": "<div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">123</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div>",
+                        "doc": "{\"0\":{\"ops\":[{\"insert\":\"123\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+                        "doc_text": "123\n"
+                    }
+                },
+                {
+                    "field_key": "field_a7830c",
+                    "field_value": {
+                        "notify_user_list": []
+                    }
+                },
+                {
+                    "field_key": "field_e806a1",
+                    "field_value": {
+                        "doc_html": "<div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">问题列表：</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line ol-idjhK4PR0r list-div list-start-number1\" data-node=\"true\" dir=\"auto\"><ol class=\"list-number1 r-list r-list-number\" data-origin-start=\"1\" start=\"1\" data-start=\"1\"><li class=\"undefined\" start=\"1\" data-start=\"1\"><span data-string=\"true\" data-leaf=\"true\">增强版AEB FP 回退明显  issue：</span><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><a style=\"cursor:pointer;\" class=\"url hyperlink-href:https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1 hyperlink-linkId:AOWuBqH8JA\" target=\"_blank\" data-hyperlink-open=\"true\" href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" data-href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" rel=\"noopener noreferrer\" data-id=\"AOWuBqH8JA\"><span data-string=\"true\">PNC触发</span></a></span></span><span data-string=\"true\" data-leaf=\"true\">   </span><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><a style=\"cursor:pointer;\" class=\"url hyperlink-href:https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1 hyperlink-linkId:RHtcncPocV\" target=\"_blank\" data-hyperlink-open=\"true\" href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" data-href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" rel=\"noopener noreferrer\" data-id=\"RHtcncPocV\"><span data-string=\"true\">STAMP触发</span></a></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></li></ol></div><div class=\"ace-line ol-idjhK4PR0r list-div\" data-node=\"true\" dir=\"auto\"><ol class=\"list-number1 r-list r-list-number\" start=\"2\" data-start=\"2\"><li class=\"undefined\" start=\"2\" data-start=\"2\"><span data-string=\"true\" data-leaf=\"true\">增强版ELK TP回退 issue：</span><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><a style=\"cursor:pointer;\" class=\"url hyperlink-href:https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697aaf42d2fd71ee5b8fe65%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1 hyperlink-linkId:kkjqG6k6qK\" target=\"_blank\" data-hyperlink-open=\"true\" href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697aaf42d2fd71ee5b8fe65%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" data-href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697aaf42d2fd71ee5b8fe65%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" rel=\"noopener noreferrer\" data-id=\"kkjqG6k6qK\"><span data-string=\"true\">链接</span></a></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></li></ol></div><div class=\"ace-line ol-idjhK4PR0r list-div\" data-node=\"true\" dir=\"auto\"><ol class=\"list-number1 r-list r-list-number\" start=\"3\" data-start=\"3\"><li class=\"undefined\" start=\"3\" data-start=\"3\"><span data-string=\"true\" data-leaf=\"true\">基础版 AEB TP VRU回退明显 </span><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><a style=\"cursor:pointer;\" class=\"url hyperlink-href:https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1 hyperlink-linkId:66O6kF2MFz\" target=\"_blank\" data-hyperlink-open=\"true\" href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" data-href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" rel=\"noopener noreferrer\" data-id=\"66O6kF2MFz\"><span data-string=\"true\">TP回退</span></a></span></span><span data-string=\"true\" data-leaf=\"true\"> </span><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><a style=\"cursor:pointer;\" class=\"url hyperlink-href:https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1 hyperlink-linkId:Mb2XL7Xryi\" target=\"_blank\" data-hyperlink-open=\"true\" href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" data-href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" rel=\"noopener noreferrer\" data-id=\"Mb2XL7Xryi\"><span data-string=\"true\"> FP回退NOGO子集</span></a></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></li></ol></div><div class=\"ace-line ol-idjhK4PR0r list-div\" data-node=\"true\" dir=\"auto\"><ol class=\"list-number1 r-list r-list-number\" start=\"4\" data-start=\"4\"><li class=\"undefined\" start=\"4\" data-start=\"4\"><span data-string=\"true\" data-leaf=\"true\">基础版GOA SOD FP 回退 ：</span><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><a style=\"cursor:pointer;\" class=\"url hyperlink-href:https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697bc64c29f727302210e64%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1 hyperlink-linkId:opUPweKtEH\" target=\"_blank\" data-hyperlink-open=\"true\" href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697bc64c29f727302210e64%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" data-href=\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697bc64c29f727302210e64%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&amp;tabsKey=6775&amp;size=10&amp;page=1\" rel=\"noopener noreferrer\" data-id=\"opUPweKtEH\"><span data-string=\"true\">链接</span></a></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></li></ol></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">AEB RECALL</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">增强版：</span><span style=\"font-size:14px; font-family:BlueSkyStandard, BlueSkyNoto, Roboto, &quot;PingFang SC&quot;, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; color:#000000;\" class=\"MAIL_EDITOR_DARK_COLOR\" data-color=\"#000000\" data-leaf=\"true\"><span style=\"background-color:rgb(250, 250, 250);\" class=\"MAIL_EDITOR_DARK_COLOR\" data-bg-color=\"rgb(250, 250, 250)\"><span data-string=\"true\">69.82%</span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">基础版：</span><span style=\"font-size:14px; font-family:BlueSkyStandard, BlueSkyNoto, Roboto, &quot;PingFang SC&quot;, &quot;Helvetica Neue&quot;, Arial, &quot;Noto Sans&quot;, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; color:#000000;\" class=\"MAIL_EDITOR_DARK_COLOR\" data-color=\"#000000\" data-leaf=\"true\"><span style=\"background-color:rgb(250, 250, 250);\" class=\"MAIL_EDITOR_DARK_COLOR\" data-bg-color=\"rgb(250, 250, 250)\"><span data-string=\"true\">29.16%</span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"574a30ab-6db4-46f2-a391-895a5d6a2bd1\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/2229e6ec-b2a0-4a75-acf0-591b449e28b3.png?isSaas=1\" width=\"929\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"1d10c4ef-74b8-4ad8-8b75-89db00337b1c\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/7f060685-4030-456d-94a1-6a3e1eab047b.png?isSaas=1\" width=\"923\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"a9b723d7-b516-442f-a752-cf8141312765\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/c2f989b2-1bf0-495d-9dc6-f020db70caa2.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">增强版</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">AEB</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">FP 回退147 NOGO</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/LU9NboyNAaAcbFsgZ45cevvLnNh?table=tbl5if9GJ9C3B5Vo&amp;view=vewfsXpatR\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"j1eygl6\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"Vgej6PoD01\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/ea49bbf8-1a09-46e5-ad1f-6d7e644f1081\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#Vgej6PoD01)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_AEB_07171928</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"9cbeb91c-87d1-4542-81c8-60a1f3ab74a6\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/1d152362-2f3d-4819-98b0-11e7bf08c755.png?isSaas=1\" width=\"942\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"bc2d40d4-a242-46b2-b773-0bc44ee16e7a\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/8f97c77b-37f1-4872-b1e8-b8eba282215b.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">GOA</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/BCp4bTAxkaYefMsiAtScf7IvnOp?table=tblq7i7Udkebye6z&amp;view=vewIsSoUmV\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"drxnh3a\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"Xi60XFz0ud\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/030760fe-0e08-430e-ad0b-f9755b31466e\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#Xi60XFz0ud)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_OAA_07172043</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"d9c42300-c8b8-4381-bc93-2f8a08bf8e31\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/485ab9c6-b9c6-45de-b45d-fdbd9a4de28c.png?isSaas=1\" width=\"660\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"1157424e-480c-4b2a-a619-6ad586668129\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/16874364-8b7b-4555-bd44-3d7d4d0ffb36.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">ELK</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">TP 回退23 NOGO</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/EwH1b0lEwa1skWsovRXcGDnGnQg?table=tblwjV8ISR3DHD8Z&amp;view=vewbxR3fHv\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"xcoyhh9\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"uAelyj6NIE\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/3ccc1f5b-e3a9-4403-976b-fdbf743a5e02\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#uAelyj6NIE)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_ELK_07171928</span></span></span></span></span></span></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"07e97c19-29e8-48a9-879a-f1196de1ae25\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/34081f60-4c55-41f8-9b93-69f29ce02f8b.png?isSaas=1\" width=\"658\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">MAI 无明显差异</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/AgjibR9SKaGxWJsAv6WciDOvnsc?table=tbltP0k9ZH0UDjcC&amp;view=vewXeP58fG\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"g8py7b7\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"6q12dji3Zc\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/59793546-1af4-4e8d-953b-9f5dade2b19b\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#6q12dji3Zc)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_MAI_07171928</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"5f56b4ae-e68e-42f1-a285-c068a880a116\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/8eeb0aa4-1fbc-4529-9c79-855f393cc314.png?isSaas=1\" width=\"884\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">RAEB </span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">TP 改进8 回退5</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/HpjjbtHwQax19QsIat9ccE48nuc?table=tblJIwXpcmOBtYW4&amp;view=vewYGkF0kq\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"ie8cdqm\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"bDVvRre1A5\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/67961018-1812-447d-8820-276e6535a837\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#bDVvRre1A5)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_AEB_07172043</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"63aa9b60-db8a-4ceb-813c-58f1156cb3e0\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/980f37a4-37c5-438c-9baa-47664fd0ed87.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">RGOA 无明显差异</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/VSUMbCNFLa0AfFsFRKncClVNnJe?table=tblbeJV5wgthQQfS&amp;view=vewuv8C9VY\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"6j9gdfo\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"ZELsGpWDaA\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/13a01345-3183-4705-8192-62db1786b73d\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#ZELsGpWDaA)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_RGOA_07172043</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"e7f2daac-ef85-4ccf-956a-80ff3713e6f7\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/12ab358b-ef49-45fa-83b4-00aa2fe455a9.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">RMAI</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">FN 改进1 </span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/TRMwbbY47a2r3gsetZsc54vTnTe?table=tbl40xE1nxMA3O8C&amp;view=vewYBcWrOa\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"20zb3u4\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"wXg0IkfVjn\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/52a55fb0-086d-41ad-aea1-99976ed5903b\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#wXg0IkfVjn)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_MAI_07172043</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"08e068a6-66b3-43f0-8ffa-a5d0c236f5ef\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/078104b1-b61a-4898-8c84-c055beafd7b3.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">基础版</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">AEB</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">aeb_fp_vru_dlb_fusion_heading_inaccuracy_tag_VRU  回退9</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">aeb_fp_vru_dlb_groupvru_tag_VRU 回退3</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">aeb_tp_vru_dlb_vru专项场景库_TP 回退28</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/N63lb2OLha2l7BsoWBbc9naCnOc?table=tbl9QsKRSd2F9lvQ&amp;view=vew5aJC6of\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"cj72oq1\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"4e8xINCCE3\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/ddccdef2-9daf-42a6-84ef-e3e78838dddf\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#4e8xINCCE3)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_AEB_07171928</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"eabf271f-c030-493e-b220-09a752a74ba8\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/be3c6453-9bfe-4539-8456-f573d9e78dcf.png?isSaas=1\" width=\"875\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"3e573b65-1de9-49c7-bc17-fb5a94d72b7b\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/b7baf099-47aa-482b-a320-63dca29a9391.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">GOA</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">goa_dlb_ctrl_fp_host_predict_path_inaccuracy 回退6</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/Zm4AbCmv8aGVsRs7inJcGTAtnhf?table=tbl3ZISN1kXmftjp&amp;view=vewKyPmfnw\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"9gl2tkz\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"GgYJ3vJ1Ns\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/8d5222a5-b575-4172-b02f-e312445acff9\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#GgYJ3vJ1Ns)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_OAA_07172043</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"13920ac0-f74f-4499-80fc-0791c63e9c63\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/bfeaf037-352f-4f75-be5e-82ce9eaad0b8.png?isSaas=1\" width=\"859\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"d86abf86-2e4e-4752-ae2e-1cf8302fc8ed\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/d0a42a0a-c44a-4eb1-861e-01d994771767.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">ELK</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/BhXCbH7Ipahui4smSz1cjzuPnoh?table=tblbk7Z0gXZ6jrgy&amp;view=vew7L57b0S\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"bjh48bk\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"8KY4wJ3oFH\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/709cdd9c-e3b9-4a1b-96f0-77ac3ac88d0c\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#8KY4wJ3oFH)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_ELK_07171928</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"21ad6a07-c0b8-4cba-abd0-2a489e3b60bb\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/933b02d3-22f7-4e7d-b499-f526d62dc49c.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">MAI</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/SBcNbYEwIawLpTs1sRpcsuKDn6b?table=tblt2LuRQpRVcj2f&amp;view=vewSOVrm0c\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"lpz20ku\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"chJUGOpnx3\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/e7e3f641-d62c-484d-b4dc-0b3ec12f87cf\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#chJUGOpnx3)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_MAI_07171928</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"96f0d4da-0286-4977-a69a-0d0d0db8116f\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/c1e53e1a-20bc-419a-bc4d-568f51e0fe70.png?isSaas=1\" width=\"913\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">RAEB</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/NsNLbecMAahjzVscVwZcXr4rn6g?table=tbleGeNN2FhZzml1&amp;view=vewgjwAwh7\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"91sbni0\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"sVXC2CoAGB\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/2a5b18da-be1a-4621-a909-a2bc206d784f\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#sVXC2CoAGB)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_AEB_07172043</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"8bd2b95f-3eb2-4a5c-8d07-de9b8fd6b526\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/cb862e44-7c34-4277-9855-ecc0971e47be.png?isSaas=1\" width=\"887\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">RGOA</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\"><span data-rect-container=\"true\"><span data-zero-space=\"true\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/MMA2bCgi4aE2X8sNtZecKJyUn9f?table=tblutLbVFVaQxUxO&amp;view=vewbynCk7H\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"hzwo49k\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"7IcpELvOPp\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/552a6ff5-80e2-4a0b-bb9b-ef26c2ec5d6a\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#7IcpELvOPp)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_RGOA_07172043</span></span></span></span></span></span></span></span></span><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"12d61350-a0ec-4579-a218-bae4e0a72da0\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/1dc4178d-a5a7-4ece-9bc4-cb4549ee4e87.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">RMAI</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span class=\"outer-u-container demo-outer-link-container\" data-inline-wrapper=\"true\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><span class=\"url-preview\" data-href=\"https://nio.feishu.cn/base/C67IbhSv6aJjwpsrlNBcMKtinSc?table=tblsKH0nzijfhmH6&amp;view=vewPLXKsI0\"><span class=\"index-module__inline-preview--YUfNm\"><span class=\"\" data-popupid=\"zcs3ofy\"><span class=\"index-module__link-inline-preview-default--+Mzdn\"><span class=\"index-module__link-inline-preview-title--MBK0W\" style=\"font-size:14px; font-weight:var(--semi-font-weight-regular);\"><span style=\"\">&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"\"><svg viewBox=\"0 0 14 14\" width=\"14\" height=\"14\">\n      <filter id=\"LkGR0RONW4\">\n        <feColorMatrix in=\"SourceGraphic\" color-interpolation-filters=\"sRGB\" type=\"matrix\" values=\"0.196 0 0 0 0 0 0.314 0 0 0 0 0 0.922 0 0 0 0 0 1 0\"></feColorMatrix>\n      </filter>\n      <image xlink:href=\"blob:https://project.feishu.cn/74e02c52-e018-4d18-b2f9-583641a34310\" x=\"0\" y=\"0\" width=\"14\" height=\"14\" filter=\"url(#LkGR0RONW4)\"></image>\n    </svg></span></span>BL300_Round3_7_16主动安全2024发版伴生_2610084_MAI_07172043</span></span></span></span></span></span></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-leaf=\"true\" style=\"margin:0px 0.1px;\"><span data-rect-container=\"true\"><span data-zero-space=\"true\" style=\"width:auto; height:auto;\"></span><span data-fake-text=\"\"><div class=\"image-module__image_block--1s1ej\"><div class=\"drag-module__drag_wrapper--xoISc\"><img class=\"image-module__image--LaQ3I\" id=\"1aa5ada2-e3a0-4d8b-9b85-162d28ae3d54\" src=\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/00c31123-21db-4756-a60a-e91ccea711a8.png?isSaas=1\" width=\"956\" style=\"max-width: 100%;\"></div></div></span></span></span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div>",
+                        "doc": "{\"0\":{\"ops\":[{\"insert\":\"问题列表：\\n\"},{\"attributes\":{\"start\":\"1\",\"list\":\"number1\",\"ol-id\":\"jhK4PR0r\",\"origin-start\":\"1\",\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"增强版AEB FP 回退明显  issue：\"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1\\\",\\\"linkId\\\":\\\"AOWuBqH8JA\\\"}\"},\"insert\":\"PNC触发\"},{\"insert\":\"   \"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1\\\",\\\"linkId\\\":\\\"RHtcncPocV\\\"}\"},\"insert\":\"STAMP触发\"},{\"insert\":\"\\n\"},{\"attributes\":{\"ol-id\":\"jhK4PR0r\",\"start\":\"2\",\"list\":\"number1\",\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"增强版ELK TP回退 issue：\"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697aaf42d2fd71ee5b8fe65%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&tabsKey=6775&size=10&page=1\\\",\\\"linkId\\\":\\\"kkjqG6k6qK\\\"}\"},\"insert\":\"链接\"},{\"insert\":\"\\n\"},{\"attributes\":{\"ol-id\":\"jhK4PR0r\",\"start\":\"3\",\"list\":\"number1\",\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"基础版 AEB TP VRU回退明显 \"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1\\\",\\\"linkId\\\":\\\"66O6kF2MFz\\\"}\"},\"insert\":\"TP回退\"},{\"insert\":\" \"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%7D%5D&tabsKey=6775&size=10&page=1\\\",\\\"linkId\\\":\\\"Mb2XL7Xryi\\\"}\"},\"insert\":\" FP回退NOGO子集\"},{\"insert\":\"\\n\"},{\"attributes\":{\"ol-id\":\"jhK4PR0r\",\"start\":\"4\",\"list\":\"number1\",\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"基础版GOA SOD FP 回退 ：\"},{\"attributes\":{\"hyperlink\":\"{\\\"href\\\":\\\"https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697bc64c29f727302210e64%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&tabsKey=6775&size=10&page=1\\\",\\\"linkId\\\":\\\"opUPweKtEH\\\"}\"},\"insert\":\"链接\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"AEB RECALL\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"增强版：\"},{\"attributes\":{\"fontsize\":\"14px\",\"fontfamily\":\"BlueSkyStandard, BlueSkyNoto, Roboto, \\\"PingFang SC\\\", \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\\\"\",\"fontcolor\":\"#000000\",\"backgroundcolor\":\"rgb(250, 250, 250)\"},\"insert\":\"69.82%\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"基础版：\"},{\"attributes\":{\"fontsize\":\"14px\",\"fontfamily\":\"BlueSkyStandard, BlueSkyNoto, Roboto, \\\"PingFang SC\\\", \\\"Helvetica Neue\\\", Arial, \\\"Noto Sans\\\", sans-serif, \\\"Apple Color Emoji\\\", \\\"Segoe UI Emoji\\\", \\\"Segoe UI Symbol\\\", \\\"Noto Color Emoji\\\"\",\"fontcolor\":\"#000000\",\"backgroundcolor\":\"rgb(250, 250, 250)\"},\"insert\":\"29.16%\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"574a30ab-6db4-46f2-a391-895a5d6a2bd1\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/2229e6ec-b2a0-4a75-acf0-591b449e28b3.png?isSaas=1\",\"width\":929},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"1d10c4ef-74b8-4ad8-8b75-89db00337b1c\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/7f060685-4030-456d-94a1-6a3e1eab047b.png?isSaas=1\",\"width\":923},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"a9b723d7-b516-442f-a752-cf8141312765\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/c2f989b2-1bf0-495d-9dc6-f020db70caa2.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"增强版\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"AEB\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"FP 回退147 NOGO\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/LU9NboyNAaAcbFsgZ45cevvLnNh?table=tbl5if9GJ9C3B5Vo&view=vewfsXpatR\",\"attributes\":{\"linkPreviewId\":\"02FJksya-kcgh-aDkA-vzrY-KO0uGhLsxHZI\",\"url\":\"https://nio.feishu.cn/base/LU9NboyNAaAcbFsgZ45cevvLnNh?table=tbl5if9GJ9C3B5Vo&view=vewfsXpatR\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"9cbeb91c-87d1-4542-81c8-60a1f3ab74a6\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/1d152362-2f3d-4819-98b0-11e7bf08c755.png?isSaas=1\",\"width\":942},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"bc2d40d4-a242-46b2-b773-0bc44ee16e7a\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/8f97c77b-37f1-4872-b1e8-b8eba282215b.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"GOA\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/BCp4bTAxkaYefMsiAtScf7IvnOp?table=tblq7i7Udkebye6z&view=vewIsSoUmV\",\"attributes\":{\"linkPreviewId\":\"ETpal5lE-BMWE-WS5g-gNgD-SQebdZPG2pCg\",\"url\":\"https://nio.feishu.cn/base/BCp4bTAxkaYefMsiAtScf7IvnOp?table=tblq7i7Udkebye6z&view=vewIsSoUmV\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"d9c42300-c8b8-4381-bc93-2f8a08bf8e31\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/485ab9c6-b9c6-45de-b45d-fdbd9a4de28c.png?isSaas=1\",\"width\":660},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"1157424e-480c-4b2a-a619-6ad586668129\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/16874364-8b7b-4555-bd44-3d7d4d0ffb36.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"ELK\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"TP 回退23 NOGO\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/EwH1b0lEwa1skWsovRXcGDnGnQg?table=tblwjV8ISR3DHD8Z&view=vewbxR3fHv\",\"attributes\":{\"linkPreviewId\":\"qr8tUFoI-Tfpg-Jvng-6myg-4MyVxpx26wv7\",\"url\":\"https://nio.feishu.cn/base/EwH1b0lEwa1skWsovRXcGDnGnQg?table=tblwjV8ISR3DHD8Z&view=vewbxR3fHv\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"07e97c19-29e8-48a9-879a-f1196de1ae25\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/34081f60-4c55-41f8-9b93-69f29ce02f8b.png?isSaas=1\",\"width\":658},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"MAI 无明显差异\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/AgjibR9SKaGxWJsAv6WciDOvnsc?table=tbltP0k9ZH0UDjcC&view=vewXeP58fG\",\"attributes\":{\"linkPreviewId\":\"ibgQ5Lgv-uotO-adiW-ePx9-F6qJXtfoe4ZI\",\"url\":\"https://nio.feishu.cn/base/AgjibR9SKaGxWJsAv6WciDOvnsc?table=tbltP0k9ZH0UDjcC&view=vewXeP58fG\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"5f56b4ae-e68e-42f1-a285-c068a880a116\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/8eeb0aa4-1fbc-4529-9c79-855f393cc314.png?isSaas=1\",\"width\":884},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"RAEB \\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"TP 改进8 回退5\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/HpjjbtHwQax19QsIat9ccE48nuc?table=tblJIwXpcmOBtYW4&view=vewYGkF0kq\",\"attributes\":{\"linkPreviewId\":\"Iw5Bg3vH-FgtB-uhBf-aH1y-ixSBmVmT8OLJ\",\"url\":\"https://nio.feishu.cn/base/HpjjbtHwQax19QsIat9ccE48nuc?table=tblJIwXpcmOBtYW4&view=vewYGkF0kq\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"63aa9b60-db8a-4ceb-813c-58f1156cb3e0\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/980f37a4-37c5-438c-9baa-47664fd0ed87.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"RGOA 无明显差异\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/VSUMbCNFLa0AfFsFRKncClVNnJe?table=tblbeJV5wgthQQfS&view=vewuv8C9VY\",\"attributes\":{\"linkPreviewId\":\"23g6SzUI-LAW2-ZZoa-fE8M-wweeLR0tWWXP\",\"url\":\"https://nio.feishu.cn/base/VSUMbCNFLa0AfFsFRKncClVNnJe?table=tblbeJV5wgthQQfS&view=vewuv8C9VY\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"e7f2daac-ef85-4ccf-956a-80ff3713e6f7\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/12ab358b-ef49-45fa-83b4-00aa2fe455a9.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"RMAI\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"FN 改进1 \\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/TRMwbbY47a2r3gsetZsc54vTnTe?table=tbl40xE1nxMA3O8C&view=vewYBcWrOa\",\"attributes\":{\"linkPreviewId\":\"IWIKgiCJ-nxLO-RBqW-3gQ4-AgRKgmpvb7GK\",\"url\":\"https://nio.feishu.cn/base/TRMwbbY47a2r3gsetZsc54vTnTe?table=tbl40xE1nxMA3O8C&view=vewYBcWrOa\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"08e068a6-66b3-43f0-8ffa-a5d0c236f5ef\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/078104b1-b61a-4898-8c84-c055beafd7b3.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"基础版\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"AEB\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"aeb_fp_vru_dlb_fusion_heading_inaccuracy_tag_VRU  回退9\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"aeb_fp_vru_dlb_groupvru_tag_VRU 回退3\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"aeb_tp_vru_dlb_vru专项场景库_TP 回退28\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/N63lb2OLha2l7BsoWBbc9naCnOc?table=tbl9QsKRSd2F9lvQ&view=vew5aJC6of\",\"attributes\":{\"linkPreviewId\":\"g5gZ0XPT-1z38-26Ff-Qxmo-Uz7LhiT9apCS\",\"url\":\"https://nio.feishu.cn/base/N63lb2OLha2l7BsoWBbc9naCnOc?table=tbl9QsKRSd2F9lvQ&view=vew5aJC6of\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"eabf271f-c030-493e-b220-09a752a74ba8\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/be3c6453-9bfe-4539-8456-f573d9e78dcf.png?isSaas=1\",\"width\":875},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"3e573b65-1de9-49c7-bc17-fb5a94d72b7b\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/b7baf099-47aa-482b-a320-63dca29a9391.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"GOA\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"goa_dlb_ctrl_fp_host_predict_path_inaccuracy 回退6\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/Zm4AbCmv8aGVsRs7inJcGTAtnhf?table=tbl3ZISN1kXmftjp&view=vewKyPmfnw\",\"attributes\":{\"linkPreviewId\":\"4iqp2U9c-zuLr-8zon-gSWn-v0NfReBGxYsf\",\"url\":\"https://nio.feishu.cn/base/Zm4AbCmv8aGVsRs7inJcGTAtnhf?table=tbl3ZISN1kXmftjp&view=vewKyPmfnw\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"13920ac0-f74f-4499-80fc-0791c63e9c63\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/bfeaf037-352f-4f75-be5e-82ce9eaad0b8.png?isSaas=1\",\"width\":859},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"d86abf86-2e4e-4752-ae2e-1cf8302fc8ed\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/d0a42a0a-c44a-4eb1-861e-01d994771767.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"ELK\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/BhXCbH7Ipahui4smSz1cjzuPnoh?table=tblbk7Z0gXZ6jrgy&view=vew7L57b0S\",\"attributes\":{\"linkPreviewId\":\"bNiug0k2-rnJb-lW4E-M3lm-WDrUaZWWYloY\",\"url\":\"https://nio.feishu.cn/base/BhXCbH7Ipahui4smSz1cjzuPnoh?table=tblbk7Z0gXZ6jrgy&view=vew7L57b0S\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"21ad6a07-c0b8-4cba-abd0-2a489e3b60bb\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/933b02d3-22f7-4e7d-b499-f526d62dc49c.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"MAI\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/SBcNbYEwIawLpTs1sRpcsuKDn6b?table=tblt2LuRQpRVcj2f&view=vewSOVrm0c\",\"attributes\":{\"linkPreviewId\":\"74T1Oq32-rgid-IflZ-G4Dz-oUk4bVSDbilB\",\"url\":\"https://nio.feishu.cn/base/SBcNbYEwIawLpTs1sRpcsuKDn6b?table=tblt2LuRQpRVcj2f&view=vewSOVrm0c\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"96f0d4da-0286-4977-a69a-0d0d0db8116f\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/c1e53e1a-20bc-419a-bc4d-568f51e0fe70.png?isSaas=1\",\"width\":913},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"RAEB\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/NsNLbecMAahjzVscVwZcXr4rn6g?table=tbleGeNN2FhZzml1&view=vewgjwAwh7\",\"attributes\":{\"linkPreviewId\":\"9qTMkt1T-gSfX-dDpO-7NdK-WgscFg00LNKa\",\"url\":\"https://nio.feishu.cn/base/NsNLbecMAahjzVscVwZcXr4rn6g?table=tbleGeNN2FhZzml1&view=vewgjwAwh7\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"8bd2b95f-3eb2-4a5c-8d07-de9b8fd6b526\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/cb862e44-7c34-4277-9855-ecc0971e47be.png?isSaas=1\",\"width\":887},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"RGOA\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/MMA2bCgi4aE2X8sNtZecKJyUn9f?table=tblutLbVFVaQxUxO&view=vewbynCk7H\",\"attributes\":{\"linkPreviewId\":\"yGB1dgUr-MTUv-UvCG-6kXB-vaN7iWJ0AHgW\",\"url\":\"https://nio.feishu.cn/base/MMA2bCgi4aE2X8sNtZecKJyUn9f?table=tblutLbVFVaQxUxO&view=vewbynCk7H\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"attributes\":{\"image\":\"true\",\"uuid\":\"12d61350-a0ec-4579-a218-bae4e0a72da0\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/1dc4178d-a5a7-4ece-9bc4-cb4549ee4e87.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"RMAI\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"insert\":\"https://nio.feishu.cn/base/C67IbhSv6aJjwpsrlNBcMKtinSc?table=tblsKH0nzijfhmH6&view=vewPLXKsI0\",\"attributes\":{\"linkPreviewId\":\"bSTb5EIG-ZTQV-QgOD-FYU2-JE3GCp8Gx9Km\",\"url\":\"https://nio.feishu.cn/base/C67IbhSv6aJjwpsrlNBcMKtinSc?table=tblsKH0nzijfhmH6&view=vewPLXKsI0\",\"isUrl\":\"true\",\"tempPreviewEntity\":\"clear\"}},{\"insert\":\"\\n\"},{\"attributes\":{\"lmkr\":\"1\"},\"insert\":\"*\"},{\"attributes\":{\"image\":\"true\",\"uuid\":\"1aa5ada2-e3a0-4d8b-9b85-162d28ae3d54\",\"src\":\"https://project.feishu.cn/goapi/v1/tos/file/meego-business/checklist/00c31123-21db-4756-a60a-e91ccea711a8.png?isSaas=1\",\"width\":956},\"insert\":\" \"},{\"insert\":\"\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+                        "doc_text": "问题列表：\n增强版AEB FP 回退明显  issue：PNC触发-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1    STAMP触发-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aaeac29f7273021ceffe%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%2231ff1f2a-1b53-4f28-b09b-a9a7108e4a15%22%2C%22729e96b4-85c4-4bf3-8f8d-49370d23cda5%22%2C%2288fe9d56-19c5-4d93-8353-619de4705c99%22%2C%2208782a06-e88a-40e0-9556-246f4265a23d%22%2C%22c1e8d504-e380-4691-aafb-9e2a5d4dd12f%22%2C%22f2ecd701-2377-44e6-a9e4-5ea83e02e144%22%2C%2201ba0a98-eaf3-48d7-9665-a093bd649c7a%22%2C%22d2e3715c-186e-40b3-b65d-a3c662d0e54d%22%2C%2275524212-9161-48d6-8a1a-acc0b65f5daf%22%2C%2201a9df69-07f5-44e7-9260-15103d78f7fc%22%2C%228fcef686-d5e4-4e26-90d9-0ba64f7ed23a%22%2C%22fdbc9501-ea54-4725-b884-553cc87e2309%22%2C%223337740e-7efd-4238-a27d-d9c30ecd09d5%22%2C%22f66a885c-3b8a-447c-97f1-5cc3cfb96b60%22%2C%225a709771-af2a-4498-ab87-7c119062ad96%22%2C%22d23a5e10-5bc4-4003-a062-825c291ecf14%22%2C%22d75406ff-1196-4c81-bb7f-59ad915fb886%22%2C%2294c0b514-ecba-49ec-8c56-b9f6788b056f%22%2C%228849c938-b707-4334-97b2-6cb2643c2fac%22%2C%2222c7686c-c88d-4eaf-979b-6e769b1228df%22%2C%223426ad05-7169-49fc-9518-cfd8457286da%22%2C%2262e27f59-4ceb-4d65-8170-ad0bf383b00f%22%2C%2200fc04c7-908f-4cba-b21a-ae3429cbed74%22%2C%22905f8459-7a88-4407-a151-5856002e702b%22%2C%22fab30a2e-e96f-4d47-8d19-33fed68eeec1%22%2C%226acaead2-4d84-4db1-b44d-b86e2febc2c6%22%2C%22a2eaf6da-306f-4548-92ba-0ecc31f62b46%22%2C%22ee732dcf-b68b-464c-a74a-285c99dd03c2%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1 \n增强版ELK TP回退 issue：链接-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697aaf42d2fd71ee5b8fe65%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&tabsKey=6775&size=10&page=1 \n基础版 AEB TP VRU回退明显 TP回退-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%2C%22category%22%3A%22tags%22%7D%5D&tabsKey=6775&size=10&page=1   FP回退NOGO子集-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%226697aae32d2fd71ee5b8faa6%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%7D%2C%7B%22symbol%22%3A%22not%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22hidden_empty%22%3Afalse%2C%22category%22%3A%22%22%2C%22value%22%3A%5B%22e5bf9f5f-182d-4a02-838f-3f2826edd966%22%2C%22a1d40697-df09-4e93-8878-24c8b7891e4b%22%2C%224780b717-a234-47e3-8fce-24b7137214dd%22%2C%22188e023a-925b-40bf-9b9c-ac12cb0fe3cb%22%2C%2283597347-4c7a-4470-8016-b637d1a46e9e%22%2C%22deb78780-e472-43ff-9a16-41abba4f6ceb%22%2C%229c852b8a-486c-4f0a-beb7-504beb24ff9f%22%2C%2203752b7d-b57c-4f74-8026-1c2405cbfb49%22%2C%221223d380-52dd-4ef8-b4a3-4ee530374890%22%2C%2287d1e29c-f7dc-40ac-a95f-57131f4a0c50%22%2C%22dac9dec3-6320-4de6-a06a-844e73b1497c%22%2C%2284f98383-0701-4fe6-a6d3-5c44201cea97%22%2C%22784e663c-658f-401a-a50f-156d70cd56ea%22%2C%22dcb848bb-219e-42a0-a110-83a194e44e88%22%2C%22a16c702d-fbea-42a2-b89d-50d15de0208b%22%2C%22b9b935e9-9fb8-4bbe-89b8-81cbf91cdbb7%22%2C%22100fdc3a-4920-45fa-917c-6880458a1fee%22%2C%221d82f676-09bc-40b5-bf3f-dceb41c401bc%22%5D%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.clip_id%22%7D%5D&tabsKey=6775&size=10&page=1 \n基础版GOA SOD FP 回退 ：链接-https://aip.nioint.com/#/issue-scenario/issue?items=%5B%7B%22symbol%22%3A%22and%22%2C%22operator%22%3A%22%3D%22%2C%22model%22%3A%22data%22%2C%22value%22%3A%5B%226697bc64c29f727302210e64%22%5D%2C%22hidden_empty%22%3Afalse%2C%22type%22%3A%22string%22%2C%22field%22%3A%22data.adsim_group_id%22%2C%22category%22%3A%22%22%7D%5D&tabsKey=6775&size=10&page=1 \n\nAEB RECALL\n增强版：69.82%\n基础版：29.16%\n\n[图片]\n[图片]\n\n[图片]\n\n\n增强版\nAEB\nFP 回退147 NOGO\nhttps://nio.feishu.cn/base/LU9NboyNAaAcbFsgZ45cevvLnNh?table=tbl5if9GJ9C3B5Vo&view=vewfsXpatR [图片]\n[图片]\n\nGOA\nhttps://nio.feishu.cn/base/BCp4bTAxkaYefMsiAtScf7IvnOp?table=tblq7i7Udkebye6z&view=vewIsSoUmV [图片]\n[图片]\n\nELK\nTP 回退23 NOGO\nhttps://nio.feishu.cn/base/EwH1b0lEwa1skWsovRXcGDnGnQg?table=tblwjV8ISR3DHD8Z&view=vewbxR3fHv \n[图片]\n\nMAI 无明显差异\nhttps://nio.feishu.cn/base/AgjibR9SKaGxWJsAv6WciDOvnsc?table=tbltP0k9ZH0UDjcC&view=vewXeP58fG [图片]\n\n\nRAEB \nTP 改进8 回退5\nhttps://nio.feishu.cn/base/HpjjbtHwQax19QsIat9ccE48nuc?table=tblJIwXpcmOBtYW4&view=vewYGkF0kq [图片]\n\nRGOA 无明显差异\nhttps://nio.feishu.cn/base/VSUMbCNFLa0AfFsFRKncClVNnJe?table=tblbeJV5wgthQQfS&view=vewuv8C9VY [图片]\n\nRMAI\nFN 改进1 \nhttps://nio.feishu.cn/base/TRMwbbY47a2r3gsetZsc54vTnTe?table=tbl40xE1nxMA3O8C&view=vewYBcWrOa [图片]\n\n\n\n基础版\nAEB\naeb_fp_vru_dlb_fusion_heading_inaccuracy_tag_VRU  回退9\naeb_fp_vru_dlb_groupvru_tag_VRU 回退3\naeb_tp_vru_dlb_vru专项场景库_TP 回退28\nhttps://nio.feishu.cn/base/N63lb2OLha2l7BsoWBbc9naCnOc?table=tbl9QsKRSd2F9lvQ&view=vew5aJC6of [图片]\n[图片]\n\nGOA\ngoa_dlb_ctrl_fp_host_predict_path_inaccuracy 回退6\nhttps://nio.feishu.cn/base/Zm4AbCmv8aGVsRs7inJcGTAtnhf?table=tbl3ZISN1kXmftjp&view=vewKyPmfnw [图片]\n[图片]\n\nELK\nhttps://nio.feishu.cn/base/BhXCbH7Ipahui4smSz1cjzuPnoh?table=tblbk7Z0gXZ6jrgy&view=vew7L57b0S [图片]\n\nMAI\nhttps://nio.feishu.cn/base/SBcNbYEwIawLpTs1sRpcsuKDn6b?table=tblt2LuRQpRVcj2f&view=vewSOVrm0c [图片]\n\nRAEB\nhttps://nio.feishu.cn/base/NsNLbecMAahjzVscVwZcXr4rn6g?table=tbleGeNN2FhZzml1&view=vewgjwAwh7 [图片]\n\nRGOA\nhttps://nio.feishu.cn/base/MMA2bCgi4aE2X8sNtZecKJyUn9f?table=tblutLbVFVaQxUxO&view=vewbynCk7H [图片]\n\nRMAI\nhttps://nio.feishu.cn/base/C67IbhSv6aJjwpsrlNBcMKtinSc?table=tblsKH0nzijfhmH6&view=vewPLXKsI0 \n[图片]\n",
+                        "is_empty": false
+                    }
+                },
+                {
+                    "field_key": "field_aed746",
+                    "field_value": {
+                        "notify_user_list": []
+                    }
+                },
+                {
+                    "field_key": "field_d97763",
+                    "field_value": {
+                        "doc": "{\"0\":{\"ops\":[{\"insert\":\"lx_006\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+                        "doc_text": "lx_006\n",
+                        "is_empty": false,
+                        "doc_html": "<div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">lx_006</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div>"
+                    }
+                },
+                {
+                    "field_key": "field_6df58a",
+                    "field_value": {
+                        "doc": "{\"0\":{\"ops\":[{\"insert\":\"Logsim测试状态：暂无\\n\"},{\"insert\":\"HIL Replay测试状态：暂无\\n\"},{\"insert\":\"Worldsim测试状态：暂无\\n\"}],\"zoneId\":\"0\",\"zoneType\":\"Z\"}}",
+                        "doc_text": "Logsim测试状态：暂无\nHIL Replay测试状态：暂无\nWorldsim测试状态：暂无\n",
+                        "is_empty": false,
+                        "doc_html": "<div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">Logsim测试状态：暂无</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">HIL Replay测试状态：暂无</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div><div class=\"ace-line\" data-node=\"true\" dir=\"auto\"><span data-string=\"true\" data-leaf=\"true\">Worldsim测试状态：暂无</span><span data-string=\"true\" data-enter=\"true\" data-leaf=\"true\"></span></div>"
+                    }
+                }
+            ],
+            "id": 4464977319,
+            "sub_stage": "linshihong_3331583812159473",
+            "current_nodes": [
+                {
+                    "owners": [
+                        "7181773549147865089",
+                        "7311200844853149699"
+                    ],
+                    "milestone": false,
+                    "id": "waiting_for_ab_discussion",
+                    "name": "logsim全量测试"
+                },
+                {
+                    "name": "hil测试",
+                    "owners": [
+                        "7202974943494012929",
+                        "7181773552801103874",
+                        "7181811094732668929"
+                    ],
+                    "milestone": false,
+                    "id": "state_9"
+                }
+            ],
+            "pattern": "Node",
+            "work_item_status": {
+                "updated_by": "7324792892365586435",
+                "history": [
+                    {
+                        "state_key": "started",
+                        "is_archived_state": false,
+                        "is_init_state": true,
+                        "updated_at": 1721205845474,
+                        "updated_by": "7324792892365586435"
+                    }
+                ],
+                "state_key": "linshihong_3331583812159473",
+                "is_archived_state": false,
+                "is_init_state": false,
+                "updated_at": 1721205849944
+            },
+            "deleted_at": 0,
+            "simple_name": "sj_test",
+            "template_id": 382839,
+            "work_item_type_key": "story",
+            "project_key": "64b3f40d63fee75141f5bb24",
+            "template_type": "64b3f40d63fee75141f5bb24_template_1691631391878268761"
+        }
+    ]
+}

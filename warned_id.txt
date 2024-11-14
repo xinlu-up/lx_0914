@@ -1,0 +1,21 @@
+
+4462518373,25997177.17更新：V2 candi：2607842伴生任务id：4564 （基础包：4380）伴生uuid：2607835伴生流水线：https://aip.nioint.com/#/publish/flow/history/218982/828伴生包：https://ad-artifactory.nioint.com/artifactory/ad-common-conan-local/coarg_bundle/master_1orin_sud/aeb/bl260Base165V4564D07172052.tar.gz
+4462544380, 2503194 需打开CCC，FTAP和Motorcycle相关场景
+4462674879,指定场景集
+4462776926,2598963(core）7/17 upd: 2607394（new）7/18 upd: 2619663（new)
+4464589234,无
+4464589234,指定场景集
+4464977319,lx_006
+4464977319,lx006
+4468466382,lx_007
+4468930283,无
+4468930283,指定场景集
+4470752006,版本/说明/bundle id/base bundle//2607842/cand1/bev10.6.1 + 速度 + 遮挡 + 非均匀采样（策略2）/2620619/cand2/cand1基础上+ 行人运动朝向/2620622
+4470301544,指定场景集
+4462518373,25997177.17更新：V2 candi：2607842伴生任务id：4564 （基础包：4380）伴生uuid：2607835伴生流水线：https://aip.nioint.com/#/publish/flow/history/218982/828伴生包：https://ad-artifactory.nioint.com/artifactory/ad-common-conan-local/coarg_bundle/master_1orin_sud/aeb/bl260Base165V4564D07172052.tar.gz7.18更新：V3 candi：2617943伴生任务id：4639 （基础包：4379）伴生uuid：2617920伴生流水线：https://aip.nioint.com/#/publish/flow/history/220002/828伴生包：https://ad-artifactory.nioint.com/artifactory/ad-common-conan-local/coarg_bundle/master_1orin_sud/aeb/bl260Base165V4639D07181711.tar.gz
+4470663687,指定场景集
+4470752006,版本/说明/bundle id/base bundle//2607842/cand1/bev10.6.1 + 速度 + 遮挡 + 非均匀采样（策略2）/26206192633481/cand2/cand1基础上+ 行人运动朝向/26206222633529
+4478740313,2453288(bl265 mass版本)
+4478740313,2610084只跑竞品对标数据
+4478740313,竞品对标场景
+4591202258,指定场景集

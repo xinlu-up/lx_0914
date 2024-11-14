@@ -1,0 +1,71 @@
+{
+    "status": 10000,
+    "message": "ok",
+    "data": {
+        "content": [
+            {
+                "id": "670797a4050d0e00a40b4324",
+                "created": "2024-10-10T09:00:20.499",
+                "updated": "2024-10-10T09:00:20.499",
+                "version": "AD180",
+                "vehicle_type": "Force",
+                "region": "CN",
+                "creator": "bench04",
+                "test_project": "test Null Null 1-1 roadtest",
+                "bundle_build_date": "241008.0239 3414535",
+                "bundle_link": "AD180 241008.0239 3414535",
+                "test_date": "2024_10_10_16_50_03.json",
+                "patch": "",
+                "test_target": "Test_4893219558",
+                "summary": null,
+                "description": null,
+                "overview_results": {},
+                "detail_results": [
+                    {
+                        "feature": "CCR",
+                        "results": [
+                            {
+                                "name": "AEB_CCRs_EgoSpd10_Ovlp100_TgtSpd0",
+                                "test_log": "2024-10-1016:56:34+08:00(good):\n [KPI]KPI_AEB_DIST=4.546m\n [KPI]KPI_AEB_SPD=0.000kph\n [KPI]KPI_AEB_TTC=1.255s\n [KPI]KPI_FCW_TTC=2.136s\n Lidar_delay:91556.500000\n ",
+                                "status": "passed",
+                                "issue_link": "https://aip.nioint.com/#/issue-scenario/issue/66334956/info\n",
+                                "image_url": null,
+                                "status_list": [
+                                    "passed"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "deleted": null,
+                "platform": null,
+                "report_type": null
+            }
+        ],
+        "pageable": {
+            "sort": {
+                "sorted": false,
+                "unsorted": true,
+                "empty": true
+            },
+            "pageNumber": 0,
+            "pageSize": 20,
+            "offset": 0,
+            "paged": true,
+            "unpaged": false
+        },
+        "totalElements": 1,
+        "last": true,
+        "totalPages": 1,
+        "first": true,
+        "sort": {
+            "sorted": false,
+            "unsorted": true,
+            "empty": true
+        },
+        "numberOfElements": 1,
+        "size": 20,
+        "number": 0,
+        "empty": false
+    }
+}
